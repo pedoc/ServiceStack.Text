@@ -1,6 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <PackageId>ServiceStack.Text</PackageId>
+    <PackageId>ServiceStack.TextEx</PackageId>
     <AssemblyName>ServiceStack.Text</AssemblyName>
     <TargetFrameworks>net45;netstandard2.0;netcoreapp2.1</TargetFrameworks>
     <Title>.NET's fastest JSON Serializer by ServiceStack</Title>
